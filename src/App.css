@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.statistics {
+  /* border: 1px solid gray; */
+  position: absolute;
+  top: 0;
+  left: 12.5px;
+  /* width: 200px;
+  height: 400px; */
+}
